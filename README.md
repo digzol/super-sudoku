@@ -1,9 +1,10 @@
-Super sudoku is an image I found online of a giant sudoku grid. Completing the puzzle by editing the image on my phone was a bit too tedious, so I created an app for this purpose.
-Numbers entered are saved locally as browser cookies for convenience.
+# Super Sudoku
+Super sudoku is an made in React 18.2.0 to solve an image of a giant sudoku grid. Completing the puzzle by editing the image on phone can be a bit too tedious, so this app was created for this purpose. Original image source is unknown.
+Progress is saved as browser cookies.
 
 Live version is accessible [here](https://digzol.github.io/super-sudoku/).
 
-# Build
+## Build
 
 The `gh-pages` package builds the app to be hosted on Github Pages. With package.json configured properly, run:
 ```
